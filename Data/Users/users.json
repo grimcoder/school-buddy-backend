@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "age": 30,
+        "registered": "2023-06-15T14:30:00",
+        "email": "alice.johnson@example.com",
+        "balance": 0.21,
+        "icon": "alice.png"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "age": 40,
+        "registered": "2022-04-20T09:15:00",
+        "email": "bob.smith@example.com",
+        "balance": 120,
+        "icon": "bob.png"
+    },
+    {
+        "id": 3,
+        "name": "Charlie Davis",
+        "age": 25,
+        "registered": "2024-01-10T18:45:00",
+        "email": "charlie.davis@example.com",
+        "balance": 20,
+        "icon": "charlie.png"
+    },
+    {
+        "id": 4,
+        "name": "Diana Ross",
+        "age": 35,
+        "registered": "2021-11-05T11:00:00",
+        "email": "diana.ross@example.com",
+        "balance": 23,
+        "icon": null
+    },
+    {
+        "id": 5,
+        "name": "Ethan Brown",
+        "age": 28,
+        "registered": "2023-08-12T16:20:00",
+        "email": "ethan.brown@example.com",
+        "balance": 45,
+        "icon": "ethan.png"
+    }
+]
